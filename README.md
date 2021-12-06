@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-Hello, I am Koen te Dorsthorst. I am a student on the HAN University of Applied Sciences. Right now I'm in my third year abd following a software development study. 
+Hello, I am Koen te Dorsthorst. I am a student on the HAN University of Applied Sciences. Right now I'm in my third year and following a software development study. 
 
 ### What do I do?
 
